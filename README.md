@@ -2,7 +2,7 @@
 
 ## Welcome to My GitHub Profile! 👋
 
-Hi there! I'm Mirko, a passionate web developer with a strong focus on creating visually appealing, user-friendly, and responsive websites. I have extensive experience in web design and development, particularly with Webflow, HTML, CSS, and JavaScript. I'm always eager to learn new technologies and take on challenging projects.
+Hi there! I'm Mirko, a passionate web developer with a strong focus on creating visually appealing, user-friendly, and responsive websites. I have extensive experience in web design and development, particularly with Webflow, HTML, CSS, JavaScript, and Python. I'm always eager to learn new technologies and take on challenging projects.
 
 ### 🛠 Skills and Expertise
 - **Webflow**: Expert in building and maintaining dynamic, responsive websites using Webflow.
@@ -10,6 +10,7 @@ Hi there! I'm Mirko, a passionate web developer with a strong focus on creating 
 - **Responsive Design**: Proficient in creating websites that perform flawlessly across all devices.
 - **HTML/CSS**: Skilled in writing clean, efficient, and maintainable code.
 - **JavaScript**: Experience in enhancing website functionality with custom JavaScript solutions.
+- **Python**: Proficient in using Python for backend and other programming tasks.
 - **Problem-Solving**: Adept at identifying issues and implementing effective solutions.
 
 ### 🌐 My Projects
