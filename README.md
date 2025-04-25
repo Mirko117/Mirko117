@@ -5,7 +5,6 @@
 - 🎓 Building a web bank for my final project.
 - 🛠️ Exploring Flask and Linux projects.
 
-**🔧 Tech Stack:**
-`Python` `Flask` `PostgreSQL` `JavaScript` `jQuery` `Linux`
+**🔧 Tools I'm currently learning:**
+`Python` `Flask` `PostgreSQL` `JavaScript` `jQuery` `Linux` `Docker`
 
-⚡ *Always learning and breaking things!*
