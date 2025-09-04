@@ -1,11 +1,11 @@
-# Hi, I'm Mirko! 👋
+# Hi, I'm Mirko.
 
-**🚀 About Me:**
-- Web dev intern this summer ☀️
+**About Me:**
+- Web dev intern this summer
 - Learning **Django** and diving deeper into backend development
-- Sadly... using **SVN** right now 😢
+- Sadly... using **SVN** right now
 
-**🛠 Tools I've Used:**
+**Tools I've Used:**
 - **Python** (Flask, Django in progress)
 - **JavaScript** (Vanilla, a bit of jQuery - planning to learn Vue)
 - **HTML**, **SCSS/CSS**
