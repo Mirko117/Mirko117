@@ -1,11 +1,14 @@
 # Hi, I'm Mirko.
 
 **About Me:**
-- Learning **Django** and **Vue**
+- Working as **.NET Developer Intern**
+- Using **SVN** 🥀
+- Learning **Django** on side
+- Planning to learn **Vue**
 
 **Tools I've Used:**
 - **Python** (Flask, Django)
-- **JavaScript** (Vanilla, jQuery, Vue)
+- **JavaScript** (Vanilla, jQuery)
 - **HTML**, **SCSS/CSS**
 - **SQL**
 - **ASP.NET**
